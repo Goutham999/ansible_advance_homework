@@ -1,7 +1,7 @@
 Role Name
 =========
 
-This is the roles directory where we define isolated roles for each and every task to be done for the poc
+This is the roles directory where we define isolated roles for each and every task to be done for the poc.
 
 Requirements
 ------------
@@ -34,4 +34,4 @@ Opensource
 Author Information
 ------------------
 
-bsk1072 | studydevops.blogspot.com
+bsk1072 | [studydevops.blogspot.com](http://studydevops.blogspot.com/)
