@@ -1,7 +1,8 @@
 Role Name
 =========
 
-A POC to determine the feasibility of using Ansible Tower as a CI/CD tool for automating continuous deployment of an internal three-tier application on QA and production environments.
+A POC to determine the feasibility of using Ansible Tower as a CI/CD tool for 
+automating continuous deployment of an internal three-tier application on QA and production environments.
 
 Requirements
   1) Ansible Tower Homework Lab
@@ -31,4 +32,4 @@ License
 Opensource
 
 Author Information
-bsk1072 | studydevops.blogspot.com
+bsk1072 | [studydevops.blogspot.com](http://studydevops.blogspot.com/)
