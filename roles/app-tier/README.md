@@ -2,6 +2,7 @@ Role Name
 =========
 
 This roles does the below,
+
     1) Installs Tomcat
     2) Enables Tomcat at boot
     3) Create tomcat default web directory
