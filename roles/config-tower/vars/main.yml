@@ -1,10 +1,10 @@
 ---
 # vars file for roles/config-tower
-org_name: Default 
-scm_branch: master 
-scm_url: "{{ github_repo }}"
+org_name: Default
+scm_branch: master
+scm_url: "https://github.com/bsk1072/ansible_advance_homework"
 proj_name: "Homework Assignment"
-user_name: admin 
+user_name: admin
 password: r3dh4t1!
 ssh_cred_name: "Connect_to_workstation"
 user_cred_name: "cloud-user"
@@ -28,12 +28,15 @@ aws_provision_playbook: aws_provision.yml
 ec2_dynamic_inventory: "Three tier inventory"
 aws_ssh_playbook: aws_creds.yml
 opentlc_cred_name: "Opentlc key"
+job_template_name_osp_infra: osp_infra
 job_template_aws_ssh_keys: "SSH keys three tier app"
 ec2_inventory_source: "Three tier inventory source"
 aws_region_name: "{{ REGION_NAME }}"
 tag_filters: "tag:instance_filter=three-tier-app-{{ EMAIL }}"
 scm_inventory_source: "SCM three tier inventory source"
 path_to_scm_inventory: scm_inventory
+job_template_name_osp_instances: create-osp-instances
+osp_infra_playbook: site-osp-infra.yml
 aws_read_keys: "AWS Access Key"
 aws_status_playbook: aws_status_check.yml
 job_template_aws_status_check: "Check the status of AWS instances"
