@@ -1,7 +1,13 @@
 Role Name
 =========
 
-This is a app-tier role for tomcat.
+This roles does the below,
+    1) Installs Tomcat
+    2) Enables Tomcat at boot
+    3) Create tomcat default web directory
+    4) Copy static index.html to tomcat webroot
+    5) Restart tomcat
+    
 
 Requirements
 ------------
@@ -43,4 +49,4 @@ Opensource
 Author Information
 ------------------
 
-bsk1072 | studydevops.blogspot.com
+bsk1072 | [studydevops.blogspot.com](http://studydevops.blogspot.com/)
