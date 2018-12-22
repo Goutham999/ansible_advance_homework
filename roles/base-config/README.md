@@ -2,6 +2,7 @@ Role Name
 =========
 
 This is a base-config role does the below,
+
         1) enable sudo without tty for some ansible commands
         2) enable repos
         3) install base tools and packages
