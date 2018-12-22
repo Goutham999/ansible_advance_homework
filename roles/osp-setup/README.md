@@ -1,8 +1,8 @@
 Role Name
 =========
 
-
 This role does the following below,
+
         1) create-image.yml
         2) create-flavor.yml
         3) create-keypair.yml
