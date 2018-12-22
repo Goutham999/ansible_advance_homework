@@ -2,8 +2,9 @@ Role Name
 =========
 
 This role does the below,
-    1) Fetch Instance Info
-    2) Delete instances
+       
+       1) Fetch Instance Info
+       2) Delete instances
 
 Requirements
 ------------
@@ -16,9 +17,9 @@ Requirements
 Role Variables
 --------------
 
-export TOWER_GUID=ccd4
-export MYKEY=~/.ssh/mykey.pem
-export MYUSER=bhandari-santhosh.kumar-atos.net
+    export TOWER_GUID=ccd4
+    export MYKEY=~/.ssh/mykey.pem
+    export MYUSER=bhandari-santhosh.kumar-atos.net
 
 Dependencies
 ------------
