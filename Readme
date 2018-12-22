@@ -25,7 +25,7 @@ Dependencies 🛒
 
   1) {{tower_guid}} is the GUID (unique identifier) i.e ccd4
   2) {{osp_guid}} is the GUID for workstation machine i.e 7e66
-  3) Tower Url: [tower1.ccd4.example.opentlc.com](https://tower1.ccd4.example.opentlc.comw)
+  3) Tower Url: [tower1.ccd4.example.opentlc.com](https://tower1.ccd4.example.opentlc.com)
   
 Example Playbook 🐧
 ================
@@ -45,4 +45,4 @@ Opensource
 Author Information 🦈
 ==================
 
-bsk1072 | [studydevops.blogspot.com](http://studydevops.blogspot.com/) 
+bsk1072 | [studydevops.blogspot.com](http://studydevops.blogspot.com/)
