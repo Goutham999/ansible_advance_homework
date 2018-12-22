@@ -20,9 +20,9 @@ Requirements
 Role Variables
 --------------
 
-   export TOWER_GUID=ccd4
-   export MYKEY=~/.ssh/mykey.pem
-   export MYUSER=bhandari-santhosh.kumar-atos.net
+          export TOWER_GUID=ccd4
+          export MYKEY=~/.ssh/mykey.pem
+          export MYUSER=bhandari-santhosh.kumar-atos.net
 
 Dependencies
 ------------
