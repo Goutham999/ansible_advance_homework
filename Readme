@@ -4,11 +4,12 @@ Role Name
 A POC to determine the feasibility of using Ansible Tower as a CI/CD tool for 
 automating continuous deployment of an internal three-tier application on QA and production environments.
 
-Requirements
-  1) Ansible Tower Homework Lab
-  2) OpenStack for Ansible
-  3) Ansible Advanced
-  4) https://github.com/bsk1072/ansible_advance_homework.git
+#Requirements
+
+      1) Ansible Tower Homework Lab
+      2) OpenStack for Ansible
+      3) Ansible Advanced
+      4) https://github.com/bsk1072/ansible_advance_homework.git
 
 
 Role Variables
