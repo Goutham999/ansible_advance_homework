@@ -20,15 +20,15 @@ Requirements
 Role Variables
 --------------
 
-export TOWER_GUID=ccd4
-export MYKEY=~/.ssh/mykey.pem
-export MYUSER=bhandari-santhosh.kumar-atos.net
+        export TOWER_GUID=ccd4
+        export MYKEY=~/.ssh/mykey.pem
+        export MYUSER=bhandari-santhosh.kumar-atos.net
 
 Dependencies
 ------------
 
- 1) {{tower_guid}} is the GUID (unique identifier) i.e ccd4
-  2) {{osp_guid}} is the GUID for workstation machine i.e 7e66
+        1) {{tower_guid}} is the GUID (unique identifier) i.e ccd4
+        2) {{osp_guid}} is the GUID for workstation machine i.e 7e66
 
 Example Playbook
 ----------------
