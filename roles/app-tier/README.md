@@ -22,6 +22,7 @@ Role Variables
 
 the variables are usually inside the vars/main.yml
 example: 
+
     payload:          tomcat
     tomcat_web_root:  /usr/share/tomcat/webapps/ROOT
 
